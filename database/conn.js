@@ -1,4 +1,4 @@
-const MONGO_URI = "mongodb+srv://astroboys:HOdKcp2XCSI5UzZj@cluster0.cdcygdl.mongodb.net/?retryWrites=true&w=majority"
+const MONGO_URI = <"">
 
 import mongoose from 'mongoose';
 
